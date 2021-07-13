@@ -1,0 +1,23 @@
+.body {
+  background-color: rgb(26, 26, 104);
+}
+.container {
+  width: 70%;
+  margin: 10px auto;
+  color: white;
+  padding-bottom: 100px;
+}
+.teamDetails {
+  padding: 10px;
+  width: 70%;
+  margin: 10px auto;
+  border-radius: 10px;
+  display: flex;
+  background-color: rgb(209, 86, 65);
+}
+
+.showImage img {
+  padding-left: 450px;
+  width: 300px;
+  height: 200px;
+}

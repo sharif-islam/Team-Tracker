@@ -1,0 +1,19 @@
+.header {
+  background-image: url("https://i.ibb.co/QkvCyR8/stadium.jpg");
+  height: 300px;
+  width: 100%;
+  opacity: 0.8;
+  color: white;
+  position: relative;
+}
+.content {
+  position: absolute;
+  color: white;
+  top: 100px;
+  left: 550px;
+  font-size: larger;
+}
+.Image {
+  width: 400px;
+  margin-left: -100px;
+}

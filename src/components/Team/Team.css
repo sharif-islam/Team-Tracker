@@ -1,0 +1,11 @@
+.image img {
+  width: 200px;
+}
+.button {
+  padding: 10px;
+  background-color: rgb(39, 24, 122);
+  color: white;
+  cursor: pointer;
+}
+.teamBody {
+}
